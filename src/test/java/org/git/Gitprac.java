@@ -13,7 +13,14 @@ public class Gitprac {
 		
 		int a= 2345;
 		
-		System.out.println(a);
+				
+				System.out.println(a);
+		
+
+		String d= "rtuwrwcsgsh";
+		System.out.println(d);
+		
+		
 		
 	}
 	
