@@ -11,6 +11,9 @@ public class Gitprac {
 		
 		System.out.println(s.charAt(3));
 		
+		String d= "rtuwrwcsgsh";
+		System.out.println(d);
+		
 		
 		
 	}
