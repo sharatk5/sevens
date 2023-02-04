@@ -11,7 +11,9 @@ public class Gitprac {
 		
 		System.out.println(s.charAt(3));
 		
+		int a= 2345;
 		
+		System.out.println(a);
 		
 	}
 	
